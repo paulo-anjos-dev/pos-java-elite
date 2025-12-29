@@ -86,7 +86,7 @@ Usados para comparar valores. O resultado é sempre um `boolean` (`true` ou `fal
 #### 2.6. Operador Ternário
 Uma forma compacta de escrever um `if-else`.
 
-> 💡 **Exemplo prático:** Veja o código completo em [`VariaveisOperadoresCondicionais.java`](../../src/modulo0/VariaveisOperadoresCondicionais.java)
+> 💡 **Exemplo prático**
 
 ```java
 // Estrutura: condição ? valor_se_verdadeiro : valor_se_falso;
